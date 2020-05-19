@@ -1,4 +1,4 @@
-# Merekaam Layar dengan Kazam Di Ubuntu20.04
+# Merekam Layar dengan Kazam Di Ubuntu20.04
 ### Aplikasi perekaman layar tidak mendeteksi audio di ubuntu 20.04
 #### Referensi : [Klik](https://askubuntu.com/questions/1234314/screen-recording-applications-are-not-detecting-audio-in-ubuntu-20-04?fbclid=IwAR2RQQCCskrxoR01LhSTc6RElujBcPIAi_ZvP5O8EQarJmveGKK0Ba7uaHY)
 
