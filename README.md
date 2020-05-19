@@ -1,7 +1,13 @@
 # Merekam Layar dengan Kazam Di Ubuntu20.04
 ### Aplikasi perekaman layar tidak mendeteksi audio di ubuntu 20.04
+### Instalasi
+```
+sudo add-apt-repository ppa:kazam-team/unstable-series
+sudo apt-get update
+sudo apt-get install kazam python3-cairo python3-xlib
+```
+### Mengatasi masalah sound kazam ubuntu 20.04 
 #### Referensi : [Klik](https://askubuntu.com/questions/1234314/screen-recording-applications-are-not-detecting-audio-in-ubuntu-20-04?fbclid=IwAR2RQQCCskrxoR01LhSTc6RElujBcPIAi_ZvP5O8EQarJmveGKK0Ba7uaHY)
-
 #### Langkah Pertama 
 ```sudo gedit /usr/lib/python3/dist-packages/kazam/pulseaudio/pulseaudio.py```
 #### Langkah Kedua ganti script python dengan script python yang dibawah ini setelah itu save
